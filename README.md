@@ -1,5 +1,3 @@
-# Adventure_work_sales_powerbi_dashboard
-
 # Adventure Works Sales Dashboard 📊
 
 ## 📌 Project Overview
@@ -77,7 +75,7 @@ The dashboard includes the following key measures:
 
 ### Total Sales
 
-```DAX
+### DAX
 Sales Amount =
 'Adventure work sales'[OrderQuantity] *
 RELATED('AdventureWorks Product Lookup'[ProductPrice])
@@ -145,4 +143,4 @@ Gender
 Users can select different values to dynamically update the dashboard visuals.
 
 ## Dashboard preview
-![Dashboard](
+![Dashboard](https://github.com/SreelakshmiRaurora/Adventure_work_sales_powerbi_dashboard/blob/main/Screenshot%202026-08-08%20113417.png?raw=true)
